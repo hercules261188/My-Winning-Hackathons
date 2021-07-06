@@ -8,4 +8,6 @@ Project: [Humanner](https://devpost.com/software/humanner)
 
 Project Details: Solving Complex Problems Together. Humanner is a Citizen Social Science IT Project, aimed at creating a new social networked environment that connects academics directly with communities so that evidence-based research may be shared and acted upon instantly with consistent feedback and contributions from the community.
 
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/civic-tech.jpg" height=350 width=300>
+
 
