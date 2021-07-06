@@ -10,4 +10,15 @@ Project Details: Solving Complex Problems Together. Humanner is a Citizen Social
 
 <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/civic-tech.jpg" height=350 width=300>
 
+### 2) Mental Health Hacks
+
+#### WINNER Best Hardware Hack presented by Digi-Key
+
+Project: [Posturino](https://devpost.com/software/posturino)
+
+Project Details: Neck Posture Correcting Wearable IoT device.A wearable IoT device for the people who are doing day-to-day works and also working in front of the computer. Alarm if the proper posture angle is not maintained.
+
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/civic-tech.jpg" height=350 width=300>
+
+
 
