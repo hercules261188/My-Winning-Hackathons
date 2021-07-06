@@ -7,8 +7,8 @@
 Project: [Humanner](https://devpost.com/software/humanner)
 
 Project Details: Solving Complex Problems Together. Humanner is a Citizen Social Science IT Project, aimed at creating a new social networked environment that connects academics directly with communities so that evidence-based research may be shared and acted upon instantly with consistent feedback and contributions from the community.
-
-<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/civic-tech.jpg" height=350 width=300>
+<div align="center">
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/civic-tech.jpg" height=350 width=300></div>
 
 ### 2) Mental Health Hacks
 
@@ -17,8 +17,8 @@ Project Details: Solving Complex Problems Together. Humanner is a Citizen Social
 Project: [Posturino](https://devpost.com/software/posturino)
 
 Project Details: Neck Posture Correcting Wearable IoT device.A wearable IoT device for the people who are doing day-to-day works and also working in front of the computer. Alarm if the proper posture angle is not maintained.
-
-<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/mental-health.jpg" height=350 width=300>
+<div align="center">
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/mental-health.jpg" height=350 width=300></div>
 
 ### 3) Surfs Up Hacks and Girls In Tech Hackathon
 
@@ -38,8 +38,8 @@ Project Details: IoT wearable device to maintain social distance.This wearable d
 Project: [SELF GREENERY](https://devpost.com/software/green-x)
 
 Project Details: Micro: bit Automated Self Watering Plant.The soil moisture sensor used in our project senses the moisture level of the soil and if the moisture level is low, the plant is automatically watered according to its requirement.
-
-<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/SELF-GREENE.jpg" height=300 width=500>
+<div align="center">
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/SELF-GREENE.jpg" height=300 width=500></div>
 
 
 
