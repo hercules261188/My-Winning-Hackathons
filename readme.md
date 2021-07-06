@@ -20,7 +20,7 @@ Project Details: Neck Posture Correcting Wearable IoT device.A wearable IoT devi
 
 <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/mental-health.jpg" height=350 width=300>
 
-### 2) Surfs Up Hacks and Girls In Tech Hackathon
+### 3) Surfs Up Hacks and Girls In Tech Hackathon
 
 #### WINNER (Girls In Tech Hackathon) WINNER Best Hardware Hack presented by Digi-Key (Surfs Up Hacks)
 
@@ -31,6 +31,16 @@ Project Details: IoT wearable device to maintain social distance.This wearable d
 
 <div align="center">
 <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/SURF-UP.jpg" height=350 width=300><img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/GIRLSINTECH.jpg" height=350 width=300></div>
+
+### 4) Garden Hacks
+
+#### WINNER First Overall
+Project: [SELF GREENERY](https://devpost.com/software/green-x)
+
+Project Details: Micro: bit Automated Self Watering Plant.The soil moisture sensor used in our project senses the moisture level of the soil and if the moisture level is low, the plant is automatically watered according to its requirement.
+
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/mental-health.jpg" height=350 width=300>
+
 
 
 
