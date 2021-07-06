@@ -20,5 +20,15 @@ Project Details: Neck Posture Correcting Wearable IoT device.A wearable IoT devi
 
 <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/mental-health.jpg" height=350 width=300>
 
+### 2) Surfs Up Hacks and Girls In Tech Hackathon
+
+#### WINNER (Girls In Tech Hackathon) WINNER Best Hardware Hack presented by Digi-Key (Surfs Up Hacks)
+
+Project: [COVIBAND](https://devpost.com/software/coviband)
+
+Project Details: IoT wearable device to maintain social distance.This wearable device will produce an alarm when another person comes in the vicinity(100cm).
+
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/mental-health.jpg" height=350 width=300>
+
 
 
