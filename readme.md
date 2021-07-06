@@ -30,7 +30,7 @@ Project Details: IoT wearable device to maintain social distance.This wearable d
 
 
 <div align="center">
-<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/SURF-UP.jpg" height=350 width=300><img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/SURF-UP.jpg" height=350 width=300>
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/SURF-UP.jpg" height=350 width=300><img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/SURF-UP.jpg" height=350 width=300></div>
 
 
 
