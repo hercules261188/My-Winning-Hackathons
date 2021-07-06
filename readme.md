@@ -39,7 +39,7 @@ Project: [SELF GREENERY](https://devpost.com/software/green-x)
 
 Project Details: Micro: bit Automated Self Watering Plant.The soil moisture sensor used in our project senses the moisture level of the soil and if the moisture level is low, the plant is automatically watered according to its requirement.
 
-<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/mental-health.jpg" height=350 width=300>
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/SELF-GREENE.jpg" height=350 width=500>
 
 
 
