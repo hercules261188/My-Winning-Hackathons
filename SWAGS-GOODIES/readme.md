@@ -15,7 +15,7 @@
   
 ### 4) Element-14 Community Prizes
 <div align="center">
-  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/element14.jpg" height=350 width=300>
+  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/element14.jpg" height=350 width=350>
   </div>
   
   
