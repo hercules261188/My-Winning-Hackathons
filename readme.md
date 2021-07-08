@@ -22,7 +22,7 @@ Project Details: Neck Posture Correcting Wearable IoT device.A wearable IoT devi
 
 ### 3) Surfs Up Hacks and Girls In Tech Hackathon
 
-#### WINNER (Girls In Tech Hackathon) WINNER Best Hardware Hack presented by Digi-Key (Surfs Up Hacks)
+#### WINNER (Girls In Tech Hackathon) and WINNER Best Hardware Hack presented by Digi-Key (Surfs Up Hacks)
 
 Project: [COVIBAND](https://devpost.com/software/coviband)
 
