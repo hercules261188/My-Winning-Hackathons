@@ -18,6 +18,23 @@
   <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/element14.jpg" height=350 width=350>
   </div>
   
+### 5) MLH Digi-Key Best Hardware Prize 
+<div align="center">
+  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/digikey.jpeg" height=350 width=350>
+  </div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
