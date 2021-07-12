@@ -23,6 +23,16 @@
   <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/digikey.jpeg" height=350 width=350>
   </div>
   
+### 6) Kotis Design Giveaway 
+<div align="center">
+  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/socks.jpeg" height=350 width=350>
+  </div>
+  
+  
+  
+  
+  
+  
   
   
   
