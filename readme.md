@@ -41,6 +41,17 @@ Project Details: Micro: bit Automated Self Watering Plant.The soil moisture sens
 <div align="center">
 <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/SELF-GREENE.jpg" height=300 width=500></div>
 
+### 5) Hacky Birthday MLH!
+
+#### WINNER Best Hardware Hack presented by Digi-Key
+Project: [Let's Play Guitar](https://devpost.com/software/electronic-guitar)
+
+Project Details:Electric Guitar With BBC Micro:bit, play real chords on an electric micro: bit guitar. Enjoy micro: bit guitar by shifting the pitch up and down octaves.
+<div align="center">
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/SELF-GREENE.jpg" height=300 width=500></div>
+
+
+
 
 
 
