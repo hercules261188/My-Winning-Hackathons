@@ -48,7 +48,7 @@ Project: [Let's Play Guitar](https://devpost.com/software/electronic-guitar)
 
 Project Details:Electric Guitar With BBC Micro:bit, play real chords on an electric micro: bit guitar. Enjoy micro: bit guitar by shifting the pitch up and down octaves.
 <div align="center">
-<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/SELF-GREENE.jpg" height=300 width=500></div>
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/guitar.jpeg" height=300 width=500></div>
 
 
 
