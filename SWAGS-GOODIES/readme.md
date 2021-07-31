@@ -30,7 +30,7 @@
 
 ### 7) Sumo Day Swag 
 <div align="center">
-  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/appsumo.jpeg" height=350 width=350>
+  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/appsumo.jpeg" height=450 width=350>
   </div>
   
   
