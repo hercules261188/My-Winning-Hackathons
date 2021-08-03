@@ -35,7 +35,7 @@
 
 ### 7) Gildan 25$ gift card giveaway
 <div align="center">
-  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/gildan.jpeg" height=450 width=350>
+  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/gildan.jpeg" height=350 width=350>
   </div>
   
   
