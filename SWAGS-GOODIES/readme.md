@@ -40,7 +40,7 @@
   
 ### 9) Gatsby 500 Bottles Giveaway
 <div align="center">
-  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/gatsby.jpeg" height=350 width=350>
+  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/gatsby.jpeg" height=450 width=350>
   </div>
   
 ### 10) Pride JAM Giveaway Stickers pack
