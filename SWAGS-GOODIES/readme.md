@@ -48,10 +48,14 @@
   <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/pridejam.jpeg" height=350 width=350>
   </div>
 
-### 11) SPARK AR Challenge by Facebook
+### 11) Garden Hacks Winner Overall Prize
 <div align="center">
-  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/sparkar.jfif" height=350 width=350>
+  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/SWAGS-GOODIES/Images/gardenh.jpeg" height=350 width=350>
   </div>
+  
+  
+  
+  
   
   
 
