@@ -50,6 +50,16 @@ Project Details:Electric Guitar With BBC Micro:bit, play real chords on an elect
 <div align="center">
 <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/guitar.jpeg" height=300 width=500></div>
 
+### 5) Prehackstoric Hack
+
+#### WINNER Little Dino Hack
+Project: [Dino-Travels](https://devpost.com/software/dino-travels)
+
+Project Details:Hassle-free, comfortable, and affordable Dino transportation service of prehistoric times.
+<div align="center">
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/dino.png" height=300 width=500></div>
+
+
 
 
 
