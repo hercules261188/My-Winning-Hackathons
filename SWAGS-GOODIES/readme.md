@@ -53,9 +53,9 @@
   <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/SWAGS-GOODIES/Images/gardenh.jpeg" height=350 width=350>
   </div>
 
-### 12) PagerDuty Quiz
+### 12) PagerDuty Challenge
 <div align="center">
-  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/SWAGS-GOODIES/Images/pagerduty.jpeg" height=350 width=350>
+  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/SWAGS-GOODIES/Images/pagerduty.jpeg" height=450 width=350>
   </div>
   
   
