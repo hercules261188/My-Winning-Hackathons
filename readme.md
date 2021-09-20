@@ -59,14 +59,14 @@ Project Details:Hassle-free, comfortable, and affordable Dino transportation ser
 <div align="center">
 <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/dino.png" height=300 width=500></div>
 
-### 6) Peace Out Hacks
+### 7) Peace Out Hacks
 
 #### WINNER First Overall and WINNER Best Domain Name from GoDaddy Registry [APAC Only]
 Project: [FightMind](https://devpost.com/software/depress-the-depression)
 
 FightMind is an all-in-one platform to fight depression in youngsters and to introduce them to augmented reality meditation, peer interaction, and receive guidance from our mental health therapists.
 <div align="center">
-<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/peaceha.jfif" height=300 width=500></div>
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/peaceha.jfif" height=400 width=400></div>
 
 
 
