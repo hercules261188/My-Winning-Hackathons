@@ -68,14 +68,14 @@ FightMind is an all-in-one platform to fight depression in youngsters and to int
 <div align="center">
 <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/peaceha.jfif" height=400 width=430></div>
 
-### 7) Web Dev Basics (Superposition Chennai)
+### 8) Web Dev Basics (Superposition Chennai)
 
 #### WINNER 
 Project: [PrideHood](https://devpost.com/software/pridehood)
 
 "PRIDEHOOD" is a platform for the LGBTQIA+ community to fight stigma.
 <div align="center">
-<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/pride.jfif" height=350 width=300></div>
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/Images/pride.jfif" height=390 width=300></div>
 
 
 
