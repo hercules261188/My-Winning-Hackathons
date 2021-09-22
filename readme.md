@@ -18,7 +18,7 @@ Project: [Posturino](https://devpost.com/software/posturino)
 
 Project Details: Neck Posture Correcting Wearable IoT device.A wearable IoT device for the people who are doing day-to-day works and also working in front of the computer. Alarm if the proper posture angle is not maintained.
 <div align="center">
-<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/SWAGS-GOODIES/Images/mental.png" height=550 width=300></div>
+<img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/SWAGS-GOODIES/Images/mental.png" height=350 width=500></div>
 
 ### 3) Surfs Up Hacks and Girls In Tech Hackathon
 
