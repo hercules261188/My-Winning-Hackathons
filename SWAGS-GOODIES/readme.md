@@ -70,7 +70,7 @@
   
 ### 15) MLH Prehackstoric hackathon Winning category Prize
 <div align="center">
-  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/SWAGS-GOODIES/Images/trex.jpeg" height=450 width=350>
+  <img src="https://github.com/akshitagupta15june/My-Winning-Hackathons/blob/main/SWAGS-GOODIES/Images/trex.jpeg" height=420 width=350>
   </div>
   
   
